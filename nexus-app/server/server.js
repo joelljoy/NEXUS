@@ -9,7 +9,7 @@ const PORT = 3001;
 app.use(cors());
 app.use(express.json());
 
-// Health check
+// Health check.
 app.get('/', (req, res) => {
   res.json({ status: 'NEXUS proxy running', port: PORT });
 });

@@ -2,7 +2,7 @@
 
 India's AI-powered life orchestration system. Built with React + Vite (frontend) and an Express proxy server (backend) to securely call the Anthropic Claude API.
 
----
+--
 
 ## Folder Structure
 
